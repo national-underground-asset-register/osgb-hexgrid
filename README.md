@@ -1,4 +1,4 @@
-# osgb-hexgrid
+# OSGB Hex Grid
 ## V1.0.0
 
 An implementation of a hierarchical hex-based spatial indexing system based on the OSGB National Grid
