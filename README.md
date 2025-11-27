@@ -1,7 +1,7 @@
-# OSGB Hex Grid
+# n3gb Hex Grid
 ## V1.0.0
 
-An implementation of a hierarchical hex-based spatial indexing system based on the OSGB National Grid
+An implementation of a hierarchical hex-based spatial indexing system based on the OSGB National Grid, loosely based on the h3 grid originally created and open sourced by Uber.
 
 ## Licence
 
